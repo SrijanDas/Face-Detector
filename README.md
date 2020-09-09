@@ -15,4 +15,6 @@
 
 
 ![](output/mark_zuckerberg.jpg)
-![](output/Bill-Gates-2011.jpg)
+
+
+<img src="output/Bill-Gates-2011.jpg" alt="Bill-Gates-2011.jpg" height="600">
