@@ -8,13 +8,13 @@
 
 
 ## Samples
-![](output/tom_hardy.jpg)
+<img src="output/tom_hardy.jpg" alt="tom_hardy.jpg" height="600">
 
 
-![](output/dicaprio.jpg)
+<img src="output/dicaprio.jpg" alt="dicaprio.jpg" height="600">
 
 
-![](output/mark_zuckerberg.jpg)
+<img src="output/mark_zuckerberg.jpg" alt="mark_zuckerberg.jpg" height="600">
 
 
 <img src="output/Bill-Gates-2011.jpg" alt="Bill-Gates-2011.jpg" height="600">
