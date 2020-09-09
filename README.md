@@ -7,5 +7,14 @@
 3. The program will detect the faces and write the images in the **output** folder
 
 
-## Examples
+## Samples
+![](output/tom_hardy.jpg)
+
+
+![](output/dicaprio.jpg)
+
+
+![](output/mark_zuckerberg.jpg)
+
+
 ![](output/tom_hardy.jpg)
