@@ -1,7 +1,7 @@
 import cv2
 
 
-trained_face_data = cv2.CascadeClassifier("C:\\Users\\Sriz\\Desktop\\Face Ditection\\data\\haarcascade_frontalface_default.xml")
+trained_face_data = cv2.CascadeClassifier(".\\training_data\\haarcascade_frontalface_default.xml")
 
 web_cam = cv2.VideoCapture(0)
 
