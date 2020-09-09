@@ -15,6 +15,4 @@
 
 
 ![](output/mark_zuckerberg.jpg)
-
-
-![](output/tom_hardy.jpg)
+![](output/Bill-Gates-2011.jpg)
