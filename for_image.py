@@ -4,11 +4,7 @@ import os
 
 trained_face_data = cv2.CascadeClassifier(".\\training_data\\haarcascade_frontalface_default.xml")
 
-img = cv2.imread(".\\input_data\\tom_hardy.jpg")
-
-
 files = os.listdir(".\\input_data\\")
-
 
 for file in files:
     img = cv2.imread(f".\\input_data\\{str(file)}")
