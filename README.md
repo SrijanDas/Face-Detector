@@ -17,7 +17,4 @@
 <img src="output/mark_zuckerberg.jpg" alt="mark_zuckerberg.jpg" height="600">
 
 
-<img src="output/Bill-Gates-2011.jpg" alt="Bill-Gates-2011.jpg" height="600">
-
-
 <img src="output/linus.jpg" alt="linus.jpg">
